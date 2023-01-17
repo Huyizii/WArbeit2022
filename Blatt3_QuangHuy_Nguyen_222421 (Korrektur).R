@@ -104,7 +104,7 @@ sum(anmeldezeit>=4320 & anmeldezeit<=5040)
 7 Studenten haben sich am Samstag zwischen 08:30 und 20:30 Uhr angemeldet
 
 f)
-table(uebung1)
+table(uebung2)
 27 Teilnehmer der Gruppe 1 hatten sehr gern (1) angegeben
 11 Teilnehmer der Gruppe 1 sind ungern (4)
 
