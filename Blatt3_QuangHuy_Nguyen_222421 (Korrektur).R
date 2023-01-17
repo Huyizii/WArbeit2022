@@ -1,5 +1,5 @@
 Quang Huy Nguyen (222421)
-Übungsblatt Nr.3
+Uebungsblatt Nr.3
 
 ##RZ: Bitte Zeilen, in denen kein Code steht auskommentieren!!!
 
@@ -68,7 +68,7 @@ j)
 f = array(c((1/7)*x,y,z), dim = c(3, 3, 3))
 
 Aufgabe 3 (Anmeldezeiten)
-setwd("C:/Users/Quang Huy/Desktop/2.Semester/R für DS/Zusatz")
+setwd("C:/Users/Quang Huy/Desktop/2.Semester/R fÃ¼r DS/Zusatz")
 load("Anmeldung_WS2122.RData", verbose = TRUE)
 a)
 is.na(anmeldezeit)
